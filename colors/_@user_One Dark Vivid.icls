@@ -4,7 +4,7 @@
     <property name="created">2022-11-10T14:08:12</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2022-11-10T14:15:12</property>
+    <property name="modified">2022-11-19T16:30:21</property>
     <property name="originalScheme">One Dark Vivid</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -1153,9 +1153,24 @@
         <option name="FOREGROUND" value="61afef" />
       </value>
     </option>
+    <option name="JAVA_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="1cffc7" />
+      </value>
+    </option>
+    <option name="JAVA_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="1cffc7" />
+      </value>
+    </option>
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="d55fde" />
+      </value>
+    </option>
+    <option name="JAVA_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="1cffc7" />
       </value>
     </option>
     <option name="JAVA_STRING">
