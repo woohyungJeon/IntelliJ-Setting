@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.springframework.org/schema/beans" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2022.2/extResources/334543e7_spring-beans.xsd" />
+  </component>
+</application>
